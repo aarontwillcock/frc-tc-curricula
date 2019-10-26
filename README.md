@@ -1,50 +1,44 @@
-# TC217 Lightning Curricula
+# TC217 Lightning :zap: Curricula
 
-## Lightning Start :zap:
+## 1. TC Programming Expectations
 
-### Intro to Robots
+Skim through the slides [here](https://docs.google.com/presentation/d/1vLqdnw9fMQ4131ZV5Xd8fztiQhwApyMSv1ZujMXin2A/edit?usp=sharing) to learn about:
 
-What are robots?
-Where do we use them?
-Why?
-How are they built?
+1. the who, what, where, when, why, and how of TC programming; and
+2. expectations for students who join TC programming
 
-### Intro to Problem Solving with Programming
+## 2. TC Programming Introduction: Tools
 
-Algorithms
-Programming Language
-Data Types
-Operators
-Expressions
-Assignment
-Input and Output
-Control Structures
-Functions
-Parameters
+Skim through the slides [here](https://docs.google.com/presentation/d/1j_bi0NYKCkuGBer7xtBlbcbHajUmxdn1p_pOJiMZEsU/edit?usp=sharing) to learn about:
 
-### Intro to Computer Architecture
+1. tools for leaning programming,
+2. tools for learning about FRC, and
+3. software for programming and driving both FRC and VEX IQ robots. 
 
-Fundamental Circuits
-Logic Gates / Boolean Logic
-Adders
-Clocks
-Flip-Flops
-Microprocessors
-Modern Computers: Processors, RAM, Hard Drives, etc.
+## 3. VEX IQ: Driver Control
 
-### Intro to Teleoperated Control
+Skim through the slides [here](https://docs.google.com/presentation/d/1fd9rfvtO-nWW8CeT8nxt9JSvQ7UaC6sC97hqk2hloM0/edit?usp=sharing) to learn about:
 
-### Intro to Sensors
+1. driving VEX IQ robots using the built-in driver control.
 
-### Intro to State Machines
+## 4. VEX IQ: RobotC: Printing and Sounds
 
-### Intro to Autonomous Control
+Skim through the slides [here](https://docs.google.com/presentation/d/1kHkzT8vW9XzOUeHJPQVR_FuGAqLmuLWgw7o8YpjUqxc/edit?usp=sharing) to learn about:
 
-### Intro to Control Systems
+1. printing messages to the VEX IQ robot display,
+2. making sounds with the VEX IQ robot,
+3. the task main() function,
+4. infinite loops,
+5. the displayTextLine() function, and
+6. the playNote() function.
 
-# No Programming Background
+## 5. VEX IQ: RobotC: Variables
 
-## Download Tools
-1. Download and install latest Java JDK via [Google Search](https://www.google.com/search?q=install+jdk). 
-1. Download and install VS Code from [here](https://code.visualstudio.com/download).
-2. Install [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack).
+Skim through the slides [here](https://docs.google.com/presentation/d/1Q-SSoQg9m1IGdvWL6WRRHcsz0mUeQM20vvr8hFSZDLk/edit#slide=id.g4c0dab2be4_1_3116) to learn about:
+
+1. identifying and creating different variables, 
+2. integers,
+3. booleans,
+4. characters,
+5. floating point numbers, and
+6. printing formatted strings.
