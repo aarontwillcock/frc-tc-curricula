@@ -42,3 +42,16 @@ Skim through the slides [here](https://docs.google.com/presentation/d/1Q-SSoQg9m
 4. characters,
 5. floating point numbers, and
 6. printing formatted strings.
+
+# Extra Stuff
+
+## Windows Shortcuts
+
+Skim through the slides [here](https://docs.google.com/presentation/d/1ICZ4dFvqAKSKHv_SBQ2ifSW3LU4Wa0yVn3BgmlV9Nts/edit?usp=sharing) to learn about keyboard shortcuts like:
+
+1. Alt + Tab
+2. Ctrl + W
+3. Alt + F4 (sometimes Alt + Fxn + F4)
+4. Windows Key + D
+5. Windows Key + E
+6. Windows Key + L
