@@ -43,14 +43,13 @@ Skim through the slides [here](https://docs.google.com/presentation/d/1Q-SSoQg9m
 5. floating point numbers, and
 6. printing formatted strings.
 
-<<<<<<< HEAD
 ## 6. VEX IQ: RobotC: Math and Debugging
 
 Skim through the slides [here](https://docs.google.com/presentation/d/1SXQ4CCcA7rt1ViGiqcuXP1zAG9nGw22TIzjlYQJUtUU/edit?usp=sharing) to learn about:
 
 1. basic math operations and
 2. basic debugging operations
-=======
+
 # Extra Stuff
 
 ## Windows Shortcuts
@@ -63,4 +62,3 @@ Skim through the slides [here](https://docs.google.com/presentation/d/1ICZ4dFvqA
 4. Windows Key + D
 5. Windows Key + E
 6. Windows Key + L
->>>>>>> 9cc43041765be08e8c6fc4aef1b56748da9ac249
