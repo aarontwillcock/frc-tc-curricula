@@ -1,5 +1,7 @@
 # TC217 Lightning :zap: Curricula
 
+## A. Lightning Intro to TC Programming
+
 ## 1. TC Programming Expectations
 
 Skim through the slides [here](https://docs.google.com/presentation/d/1vLqdnw9fMQ4131ZV5Xd8fztiQhwApyMSv1ZujMXin2A/edit?usp=sharing) to learn about:
@@ -14,6 +16,8 @@ Skim through the slides [here](https://docs.google.com/presentation/d/1j_bi0NYKC
 1. tools for leaning programming,
 2. tools for learning about FRC, and
 3. software for programming and driving both FRC and VEX IQ robots. 
+
+## B. Lightning Intro to Programming Fundamentals
 
 ## 3. VEX IQ: Driver Control
 
@@ -67,49 +71,76 @@ Skim through the slides [here](https://docs.google.com/presentation/d/1sdmpH0eZz
 
 ## 9. VEX IQ: RobotC: SWITCH
 
-TBD
+Skim through the slides [here]() to learn about:
 
-## 10. VEX IQ: RobotC: FOR and WHILE
+1. controlling program flow with SWITCH statements,
+2. collapsing cases in SWITCH statements, and
+3. controlling transitions with SWITCH statements.
 
-TBD
+## C. Lightning Intro to Teleoperated Programming
 
-## 11. VEX IQ: RobotC: Functions
+### 1. VEX IQ: RobotC: Programming Motors with setMotorSpeed()
 
-TBD
+Skim through [these slides](https://docs.google.com/presentation/d/1bJ4BMg4rIqGirYLFP_xdCP-On9bsr3LAf-y0vthpBzA/edit?usp=sharing) to learn how to:
 
-## 12. VEX IQ: Motors
+1. Write an infinite loop,
+2. Drive a Smart Motor using RobotC, and
+3. Invert motor speeds to drive forward
 
-TBD
+### 2. VEX IQ: RobotC: Controller Intro - Buttons
 
-## 13. VEX IQ: Controller Buttons
+Skim through [these slides](https://docs.google.com/presentation/d/1bILMK5E4esG3eQm9xa5Pm3G_34LVBIcw2jbCBgSPtqI/edit?usp=sharing) to learn how to:
 
-TBD
+1. Program the robot in TeleOp mode,
+2. Create a variable to hold button value,
+3. Use the VexRT[ ] function to get the status of a Vex IQ controller button, and
+4. Use the Vex IQ controller button to control a motor!
 
-## 14. VEX IQ: Controller Joysticks
+### 3. VEX IQ: RobotC: Controller Intro - Advanced (Double) Buttons
 
-TBD
+Skim through [these slides](https://docs.google.com/presentation/d/1x9O8b1W6jS3gj9345w7xdfUn0j-7IGVGGR4XwdDteo0/edit?usp=sharing) to learn how to:
 
-## 15. VEX IQ: Sensors: TouchLED 
+1. Use an if-elseif-else structure, and
+2. control a single motor with two buttons
 
-TBD
+### 4. VEX IQ: RobotC: Controller Intro - Joysticks
 
-## 16. VEX IQ: Sensors: Bumper
+Skim through [these slides](https://docs.google.com/presentation/d/13TnDF_gOfPJt9buPPukOf8dlTfKeFLN3260nRTlCEi0/edit?usp=sharing) to learn how to:
 
-TBD
+1. Create a variable to hold joystick values,
+2. Get the status of the Vex IQ controller joystick axis (a.k.a. channel) using the VexRT[ ] function,
+3. Drive a motor using a Vex IQ controller joystick, and
+4. Select a different controller joystick axis (channel) to control the motor
 
-## 17. VEX IQ: Sensors: Gyro
+## D. Lightning Intro to Sensors
 
-TBD
+### 1. Touch LED Sensor
 
-## 18. VEX IQ: Sensors: Ultrasonic Proximity Sensors
+Follow [this link](https://docs.google.com/presentation/d/1cJ7TTh4gOdv9XMNLSBmN2gtnjkgkfihG1bbaSP6vLhM/edit?usp=sharing) to learn how to:
 
-TBD
+1. Use touch sensors in RobotC
 
-## 19. VEX IQ: Sensors: Color Sensor
+### 2. Bumper (Limit Switch) Sensor
 
-TBD
+Follow [this link](https://docs.google.com/presentation/d/1r1AhebNhu7HxsNxID_GlqjldTHmiisq8tR0c4I1uQbY/edit?usp=sharing) to learn how to:
 
-## 20. VEX IQ: RobotC: State Machines
+1. Use bumper (limit switch) sensors in RobotC
+
+### 3. Gyro (Angle) Sensor
+
+Follow [this link](https://docs.google.com/presentation/d/18KbUWBCDrOjCIG0dlUG4LUe6w1qYgRHsPbGuVBRkDyc/edit?usp=sharing) to learn how to:
+
+1. Use Gyro (Angle) sensors in RobotC
+
+### 4. Ultrasonic Proximity (Distance) Sensor
+
+Follow [this link](https://docs.google.com/presentation/d/1hcbKCy2vUuc5-NTPOdc9XO4jLsSVHIhjGBHO_QyeCMM/edit?usp=sharing) to learn how to:
+
+1. Use ultrasonic proximity (distance) sensors in RobotC
+
+### E. Lightning Intro to Sensor Fusion and Autonomous Operation via State Machines
+
+## 1. VEX IQ: RobotC: Sensor Fusion and State Machines
 
 TBD
 
