@@ -50,6 +50,69 @@ Skim through the slides [here](https://docs.google.com/presentation/d/1SXQ4CCcA7
 1. basic math operations and
 2. basic debugging operations
 
+## 7. VEX IQ: RobotC: IF and ELSE
+
+Skim through the slides [here](https://docs.google.com/presentation/d/1C2G0XTFspmUnrj6soXVPZS5e-o3D7WrOirBLt3QJy2w/edit?usp=sharing) to learn about:
+
+1. controlling program flow with IF statements and
+2. controlling program flow with ELSE statements.
+
+## 8. VEX IQ: RobotC: Boolean Logic
+
+Skim through the slides [here](https://docs.google.com/presentation/d/1sdmpH0eZziWW2i0PHqeCnK_wXSkOYrr5_zXXvWmmRTw/edit?usp=sharing) to learn about:
+
+1. using boolean AND,
+2. using boolean OR, and
+3. using boolean NOT to control program flow.
+
+## 9. VEX IQ: RobotC: SWITCH
+
+TBD
+
+## 10. VEX IQ: RobotC: FOR and WHILE
+
+TBD
+
+## 11. VEX IQ: RobotC: Functions
+
+TBD
+
+## 12. VEX IQ: Motors
+
+TBD
+
+## 13. VEX IQ: Controller Buttons
+
+TBD
+
+## 14. VEX IQ: Controller Joysticks
+
+TBD
+
+## 15. VEX IQ: Sensors: TouchLED 
+
+TBD
+
+## 16. VEX IQ: Sensors: Bumper
+
+TBD
+
+## 17. VEX IQ: Sensors: Gyro
+
+TBD
+
+## 18. VEX IQ: Sensors: Ultrasonic Proximity Sensors
+
+TBD
+
+## 19. VEX IQ: Sensors: Color Sensor
+
+TBD
+
+## 20. VEX IQ: RobotC: State Machines
+
+TBD
+
 # Extra Stuff
 
 ## Windows Shortcuts
@@ -62,3 +125,7 @@ Skim through the slides [here](https://docs.google.com/presentation/d/1ICZ4dFvqA
 4. Windows Key + D
 5. Windows Key + E
 6. Windows Key + L
+
+## Formatting
+
+TBD
